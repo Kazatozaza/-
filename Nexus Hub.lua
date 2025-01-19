@@ -31,7 +31,7 @@ local Window = Rayfield:CreateWindow({
       FileName = "Key",
       SaveKey = true,
       GrabKeyFromSite = false,
-      Key = {"Hello"}
+      Key = {"Key-Speed-Piece-00584"}
    }
 })
 
